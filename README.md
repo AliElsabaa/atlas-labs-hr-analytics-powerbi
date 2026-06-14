@@ -105,4 +105,4 @@ Built as part of the [DataCamp Data Analyst in Power BI Career Track](https://ww
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20El--Sabaa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-elsabaa-a4b757219/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20El--Sabaa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-elsabaa/)
